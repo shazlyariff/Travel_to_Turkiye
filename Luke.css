@@ -1,0 +1,10 @@
+body,
+ h1, h2, h3{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: tomato;
+ }
+
+ a.navbar-brand{
+   font-size:medium;
+ }
